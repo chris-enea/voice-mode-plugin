@@ -1,0 +1,10 @@
+{
+  "name": "voice-mode",
+  "description": "Hands-free Claude Code: replies are short spoken sentences, read aloud on your Mac by Kokoro TTS or the built-in voice.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Honeycomb Labs"
+  },
+  "repository": "https://github.com/chris-enea/voice-mode-plugin",
+  "license": "MIT"
+}

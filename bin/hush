@@ -1,0 +1,4 @@
+#!/bin/bash
+# Stops Claude Code voice playback immediately.
+# Type `!hush` in the Claude Code prompt.
+exec "$(cd "$(dirname "$0")/.." && pwd)/hooks/voice-stop.sh"

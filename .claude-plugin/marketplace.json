@@ -1,0 +1,17 @@
+{
+  "name": "voice-mode-plugin",
+  "owner": {
+    "name": "Honeycomb Labs",
+    "url": "https://honeycombcreates.com"
+  },
+  "description": "Voice mode for Claude Code: spoken replies with rules written for the ear.",
+  "plugins": [
+    {
+      "name": "voice-mode",
+      "description": "Toggle spoken replies in Claude Code, with speaking rules sent on every prompt",
+      "source": "./"
+    }
+  ],
+  "homepage": "https://github.com/chris-enea/voice-mode-plugin",
+  "repository": "https://github.com/chris-enea/voice-mode-plugin"
+}
